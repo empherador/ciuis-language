@@ -1978,5 +1978,5 @@ $lang['code'] = 'Code';
 $lang['auto'] = 'Auto';
 $lang['after'] = 'After';
 $lang['before'] = 'Before';
-$lang['php_mail'] = 'PHP <b>mail()</b> function';
+$lang['php_mail'] = 'PHP <b>mail()</b> function'; 
 ?>
